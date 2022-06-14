@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This repo holds the codes for a step-by-step tutorial on Recurrent Neural Networks, from Basic RNNs and complex deep LSTM networks.
+This repository holds the codes for a step-by-step tutorial on Recurrent Neural Networks with several small projects, from Basic RNNs to complex deep LSTM networks.
 
 ## Preparing the environment
 **Note**: I have developed this project on __Linux__. It can surely be run on Windows and Mac with some little changes.
@@ -47,7 +47,7 @@ The project is structured as a series of Jupyter Notebooks that should be run in
 
 ### [1_Vanilla_RNN_Basics](1_Vanilla_RNN_Basics.ipynb)
 
-Provides the implementation of a Vanilla RNN from scratch. 
+This notebook provides the implementation of a Vanilla RNN from scratch. 
 
 ### [2_Character_Model_with_Basic_RNN](2_Character_Model_with_Basic_RNN.ipynb) 
 
