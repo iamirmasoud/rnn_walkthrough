@@ -11,8 +11,8 @@ Before you can experiment with the code, you'll have to make sure that you have 
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/iamirmasoud/facial_keypoint_detection.git
-cd facial_keypoint_detection
+git clone https://github.com/iamirmasoud/rnn_walkthrough.git
+cd rnn_walkthrough
 ```
 
 2. Create (and activate) a new environment, named `rnn_env` with Python 3.7. If prompted to proceed with the install `(Proceed [y]/n)` type y.
@@ -22,7 +22,7 @@ cd facial_keypoint_detection
 	source activate rnn_env
 	```
 	
-	At this point your command line should look something like: `(rnn_env) <User>:facial_keypoint_detection <user>$`. The `(rnn_env)` indicates that your environment has been activated, and you can proceed with further package installations.
+	At this point your command line should look something like: `(rnn_env) <User>:rnn_walkthrough <user>$`. The `(rnn_env)` indicates that your environment has been activated, and you can proceed with further package installations.
 
 6. Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You will mainly need Python3.7+, PyTorch and its torchvision, OpenCV, Matplotlib. You can install  dependencies using:
 ```
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 7. Navigate back to the repo. (Also, your source environment should still be activated at this point.)
 ```shell
-cd facial_keypoint_detection
+cd rnn_walkthrough
 ```
 
 8. Open the directory of notebooks, using the below command. You'll see all the project files appear in your local environment; open the first notebook and follow the instructions.
