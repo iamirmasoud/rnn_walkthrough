@@ -1,10 +1,9 @@
 # Walkthrough on Recurrent Neural Networks (RNNs) in PyTorch 
 
-## Project Overview
+## Repository Overview
 
 This repo holds the codes for a step-by-step tutorial on Recurrent Neural Networks, from Basic RNNs and complex deep LSTM networks.
 
----
 ## Preparing the environment
 **Note**: I have developed this project on __Linux__. It can surely be run on Windows and Mac with some little changes.
 
