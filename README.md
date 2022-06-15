@@ -62,9 +62,13 @@ In this notebook, I will introduce the basics of LSTM networks.
 
 In this notebook, I will use an LSTM to predict part-of-speech tags for words.
 
-### [5_Character Level LSTM](5_Character Level LSTM.ipynb) 
+### [5_Character_Level_LSTM](5_Character_Level_LSTM.ipynb) 
 
 In this notebook, I'll construct a character-level LSTM with PyTorch. The network will train character by character on some text, then generate new text character by character. As an example, I will train on Anna Karenina. This model will be able to generate new text based on the text from the book!
+
+### [6_Sentiment_Analysis_LSTM](6_Sentiment_Analysis_LSTM.ipynb) 
+
+In this notebook, I'll implement a lstm network that performs sentiment analysis on a dataset of movie reviews accompanied by labels.
 
 
 ## Results
