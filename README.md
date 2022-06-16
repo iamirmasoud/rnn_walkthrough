@@ -1,8 +1,8 @@
-# Walkthrough on Recurrent Neural Networks (RNNs) in PyTorch 
+# Walkthrough on Recurrent Neural Networks (RNNs) in PyTorch and TensorFlow
 
 ## Repository Overview
 
-This repository holds the codes for a step-by-step tutorial on Recurrent Neural Networks with several small projects, from Basic RNNs to complex deep LSTM networks.
+This repository holds the codes for a step-by-step tutorial on Recurrent Neural Networks with several small projects, from Basic RNNs to advanced deep LSTM networks.
 
 ## Preparing the environment
 **Note**: I have developed this project on __Linux__. It can surely be run on Windows and Mac with some little changes.
@@ -66,9 +66,9 @@ In this notebook, I will use an LSTM to predict part-of-speech tags for words.
 
 In this notebook, I'll construct a character-level LSTM with PyTorch. The network will train character by character on some text, then generate new text character by character. As an example, I will train on Anna Karenina. This model will be able to generate new text based on the text from the book!
 
-### [6_Sentiment_Analysis_LSTM](6_Sentiment_Analysis_LSTM.ipynb) 
+### [6_Sentiment_Analysis_TensorFlow_LSTM](6_Sentiment_Analysis_TensorFlow_LSTM.ipynb) 
 
-In this notebook, I'll implement a lstm network that performs sentiment analysis on a dataset of movie reviews accompanied by labels.
+In this notebook, I'll implement a lstm network in TensorFlow that performs sentiment analysis on a dataset of movie reviews accompanied by labels.
 
 
 ## Results

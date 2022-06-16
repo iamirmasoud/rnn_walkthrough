@@ -134,5 +134,6 @@ captions.pt
 .idea/
 debug_script.py
 data/MNIST/
+checkpoints/
 loss_log/
 *.avi
