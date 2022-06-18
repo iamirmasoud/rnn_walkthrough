@@ -7,7 +7,7 @@ This repository holds the codes for a step-by-step tutorial on Recurrent Neural 
 ## Preparing the environment
 **Note**: I have developed this project on __Linux__. It can surely be run on Windows and Mac with some little changes.
 
-Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You will mainly need Python 3, PyTorch and its torchvision, OpenCV, Matplotlib, and tqdm.
+Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You will mainly need Python 3, PyTorch and its torchvision, OpenCV, and Matplotlib, and tqdm.
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
